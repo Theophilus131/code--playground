@@ -9,8 +9,8 @@ System.out.println("enter digit for conversion to either Celsius or Fahrenheit: 
  int conversion = input.nextInt();
 
 
-System.out.println("Celsius to Fahrenheit :" +Conversions.celsiusToFahrenheit );
-System.out.println("Celsius to Fahrenheit :" +Conversions.fahrenheitToCelsius );
+System.out.println("Celsius to Fahrenheit :" +Conversions.celsiusToFahrenheit(conversion) );
+System.out.println("fahrenheit to celsius :" +Conversions.fahrenheitToCelsius(conversion) );
 
 
 
