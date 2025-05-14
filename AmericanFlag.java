@@ -1,4 +1,4 @@
-public class AmericanFlag{
+  public class AmericanFlag{
 public static void main(String [] args){
 
 
