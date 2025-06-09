@@ -3,12 +3,8 @@ public class FunctionPractice{
 
 public static void main(String [] args){
 	
-	sayName();
-
-	sayAge();
-
-	sayHobby();
 	
+	introduceYourself();
 
 	}
 
@@ -27,6 +23,18 @@ System.out.println("I am 7years old : ");
 public static void sayHobby(){
 
 System.out.println("I love playing football : ");
+
+}
+
+public static void introduceYourself(){
+
+
+	sayName();
+
+	sayAge();
+
+	sayHobby();
+
 
 }
 
