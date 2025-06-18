@@ -9,7 +9,6 @@ System.out.println("Result: " + result);
 
 
 
-
 }
 
 public static int calculate(int x, int y){
