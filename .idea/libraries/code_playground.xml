@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="code playground">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Revision/code playground/junit-jupiter-api-5.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Revision/code playground/junit-platform-console-standalone-1.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
