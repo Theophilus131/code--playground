@@ -16,6 +16,8 @@ int number = input.nextInt();
 
 if(number < 0 || number > 100){
 	System.out.println("invalid number, enter number between 0 to 100: ");
+	
+	index--;
 }
 
 else{
