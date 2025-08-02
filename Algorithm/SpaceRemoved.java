@@ -20,4 +20,9 @@ public static String getSpaceRemovedString(String input){
 
 }
 
+	public static void main(String [] args){
+
+	System.out.println(getSpaceRemovedString("theophilus is a guy"));
+	}
+
 	}
